@@ -1,4 +1,4 @@
-Program modification frame from camera.
+Program modify frames from camera.
  Result:
  * Android gives to change copy of frame(use setPreviewCallback method of Camera)
  * Need to decode int array witch contains frame to rgb array
